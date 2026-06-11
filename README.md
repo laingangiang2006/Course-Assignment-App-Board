@@ -15,6 +15,7 @@ The WWP entries in this repository were revised after I received the grades.
 3. **WWP3 (Vue)**: [Click here](https://plnkr.co/edit/JOaXSJKPuygMzI3f?preview)
 4. **WWP4 (More Python)**: [Click here](https://plnkr.co/edit/DKJdCvyprKzH7Bla?preview)
 5. **WWP5 (Coding with AI)**: [Click here](https://plnkr.co/edit/yRx6LePcTc8sfgqK?preview)
+6. **WWP6 (Iterative Dialogue with AI)**: [Click here](https://plnkr.co/edit/ixJ9ouzbDFkzbni3?open=lib%2Findex.html)
 
 ## Workshop Tasks
 
