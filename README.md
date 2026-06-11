@@ -34,4 +34,6 @@ This is my graded group project for this course. I worked on this project with m
 
 It carries the most weight among all graded items.
 
+[Click here to access the final project's Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3)
+
 > *All work in this repository is my own, completed as part of my studies.*
