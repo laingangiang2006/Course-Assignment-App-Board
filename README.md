@@ -30,9 +30,7 @@ These tasks are what I am given to practice in my workshop sessions.
 
 ## Project
 
-This is my graded group project for this course. I worked on this project with my teammate, Diksha Patel. 
-
-It carries the most weight among all graded items.
+This is my graded group project for this course. I worked on this project with my teammate, Diksha Patel. It carries the most weight among all graded items.
 
 [Click here to access the final project's Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3)
 
