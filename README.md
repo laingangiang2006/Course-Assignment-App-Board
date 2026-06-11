@@ -30,6 +30,6 @@ These tasks are what I am given to practice in my workshop sessions.
 
 ## Project
 
-This is my graded group project I worked with my teammate, Diksha Patel. It carries the most weight among all graded items. You can try this project by accessing it vía [Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3).
+This is my graded group project I worked with my teammate, Diksha Patel. It carries the most weight among all graded items. You can try this project by accessing it via [this Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3).
 
 > *All work in this repository is my own, completed as part of my studies.*
