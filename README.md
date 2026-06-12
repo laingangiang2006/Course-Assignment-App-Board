@@ -1,5 +1,4 @@
-<img width="245" height="206" alt="images" src="https://github.com/user-attachments/assets/fa174f4f-9e9e-43dc-8492-7cae0d9557ed" />
-
+<img width="2450" height="2060" alt="images" src="https://github.com/user-attachments/assets/fa174f4f-9e9e-43dc-8492-7cae0d9557ed" />
 
 # INFO102 - Foundations of App Development
 
