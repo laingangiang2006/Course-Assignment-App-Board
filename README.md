@@ -1,4 +1,4 @@
-<img width="2450" height="2060" alt="images" src="[https://github.com/user-attachments/assets/fa174f4f-9e9e-43dc-8492-7cae0d9557ed](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.wipster.io%2Fcase-studies%2Fvuw-uses-wipster-to-connect-with-24000-students-and-staff&ved=0CBYQjRxqFwoTCOiMn5GLgpUDFQAAAAAdAAAAABA8&opi=89978449)" />
+<img width="12800" height="4340" alt="Logo Standard Landscape Reversed RGB" src="https://github.com/user-attachments/assets/eef220f5-6f30-4c28-b7ce-586399599be9" />
 
 # INFO102 - Foundations of App Development
 
