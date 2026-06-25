@@ -4,7 +4,7 @@
 
 This is my project I have completed for INFO102 - Foundations of App Development at Victoria University of Wellington with my teammate, Diksha Patel. It carries the most weight among all graded items. 
 
-You can try this project by accessing it though [this Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3).
+You can try this project by downloading files in this repo to run locally or running it through [this Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3).
 
 ---
 
@@ -78,3 +78,5 @@ e)	A student can only enroll in a course if they have completed the prerequisite
 ## Navigation diagram
 
 <img width="3060" height="4080" alt="Navigation diagram" src="https://github.com/user-attachments/assets/2205f7b6-fffa-4aeb-85d4-bea744ba0a4f" />
+
+> Alternatively, you can view this navigation diagram by downloading this [image](https://github.com/laingangiang2006/Course-Assignment-App-Board/blob/main/Navigation%20diagram.jpg) in this repo.
