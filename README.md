@@ -72,3 +72,9 @@ e)	A student can only enroll in a course if they have completed the prerequisite
 - Dropdown menus are preferred over empty fields. 
 - Forms have pre-selected options whenever possible. 
 - Optional challenge: Forms work well on mobile devices. 
+
+---
+
+## Navigation diagram
+
+<img width="3060" height="4080" alt="Navigation diagram" src="https://github.com/user-attachments/assets/2205f7b6-fffa-4aeb-85d4-bea744ba0a4f" />
