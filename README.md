@@ -6,6 +6,8 @@ This is my project I have completed for INFO102 - Foundations of App Development
 
 You can try this project by downloading files in this repo to run locally or running it through [this Plunker](https://plnkr.co/edit/tDZRRzbAse6Wasl3).
 
+See product backlog [here](https://trello.com/b/uUwin3YE) and scrum board [here](https://trello.com/b/p2iOTRSQ/info-102-scrum-board).
+
 ---
 
 ## Project Goals
